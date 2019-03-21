@@ -1,0 +1,16 @@
+##
+## Evil-looking eyes
+##
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+      @@                                     ..    
+      aa@@    ttttttttttt mm           mm  ooo
+      aa @@       tt      mmmm       mmmm ''
+      aa  @@      tt      mmmmm     mm mm  iii
+      aa   @@     tt      mm  mm   mm  mm  iii  ooooo  ssss
+      aa@@@@@@    tt      mm   mm mm   mm  iii oo   oos    
+      aa@@@@@@@   tt      mm    mmm    mm  iii oo   oo sss
+      aa      @@  tt      mm     m     mm  iii oo   oo    s
+      aa       @@ tt      mm           mm  iii  ooooosssss
+EOC
